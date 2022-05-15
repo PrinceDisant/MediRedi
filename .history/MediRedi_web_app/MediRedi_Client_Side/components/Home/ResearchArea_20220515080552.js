@@ -47,7 +47,7 @@ const ResearchArea = () => {
                               </div>
                               <div className="research__content">
                                  <h3 className="research__title">{research.title}</h3>
-                                 <p>Our team of experts has conducted extensive research on how to get certified as a virtual physician in Newfoundland and has gathered the finest resources for you in one location.</p>
+                                 <p>Our team of experts have done extensive research on how to get certified as a virtual physician in Newfoundland and have complied the best resourses in one place for you.</p>
                               </div>
                            </div>
                         </div>

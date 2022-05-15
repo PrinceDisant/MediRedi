@@ -29,7 +29,6 @@ export default function Home() {
       <HomeCourses/>
       <Campus/>
       <ResearchArea/>
-      
       <Cta/>
       <Footer/>
     </>

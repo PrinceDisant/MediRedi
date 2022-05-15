@@ -44,7 +44,7 @@ const Campus = () => {
                         <div className="section__title-wrapper mb-25">
                            <span className="section__title-pre">Campus life</span>
                            <h2 className="section__title section__title-40">100% remote learning</h2>
-                           <p>Our program has an international impact. Join us in addressing the major concerns of caring for a rising patient population in Newfoundland and Canada.</p>
+                           <p>Our research has an impact globally join us in tackling the big issues of .</p>
                         </div>
                         <div className="campus__btn mb-80">
                            <Link href="/about">

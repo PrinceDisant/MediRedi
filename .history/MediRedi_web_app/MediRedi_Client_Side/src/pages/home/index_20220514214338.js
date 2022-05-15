@@ -29,7 +29,7 @@ export default function Home() {
       <HomeCourses/>
       <Campus/>
       <ResearchArea/>
-      
+      <HomeBlog/>
       <Cta/>
       <Footer/>
     </>

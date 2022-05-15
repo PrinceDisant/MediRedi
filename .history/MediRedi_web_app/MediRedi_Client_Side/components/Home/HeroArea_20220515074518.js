@@ -12,7 +12,7 @@ const HeroArea = () => {
       },
       {
          id: 2,
-         title: <>Career Accelerator <br /> Get certified as a virtual physician</>,
+         title: <>Career Accelerator <br /> Get certified as a virtual </>,
          img: 'assets/img/slider/slider-2.jpg',
       },
    ]

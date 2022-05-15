@@ -24,7 +24,7 @@ const Features = () => {
             <path d="M0.966797 39.1608H43.1335" stroke="#031220" strokeWidth="1.5" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round" />
             <path d="M22.0501 13.2858C23.6379 13.2858 24.9251 11.9986 24.9251 10.4108C24.9251 8.82295 23.6379 7.53577 22.0501 7.53577C20.4623 7.53577 19.1751 8.82295 19.1751 10.4108C19.1751 11.9986 20.4623 13.2858 22.0501 13.2858Z" stroke="#031220" strokeWidth="1.5" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round" />
          </svg>,
-         title: 'Thriving Community of Professors and Doctors',
+         title: 'Community of Professors and Doctors',
       },
       {
          id: 3,
@@ -56,7 +56,7 @@ const Features = () => {
                                           <a>{feature.title}</a>
                                        </Link>
                                     </h3>
-                                    <p>Once you graduate from our program you will be certified to practice remotely.</p>
+                                    <p>Euucal University was established it is recognized.</p>
 
                                     <Link href="/about">
                                        <a className="link-btn">Learn More <i className="fa-regular fa-arrow-right">

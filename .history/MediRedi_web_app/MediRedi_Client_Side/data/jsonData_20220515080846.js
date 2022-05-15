@@ -360,7 +360,7 @@ const courses = [
       id: 4,
       img: 'https://i.ibb.co/BPzNBMP/blog-big-1.jpg',
       category: 'Education',
-      title: 'How to manage clients overseas',
+      title: 'How to ',
       date: 'January 14, 2022',
       views: '1,626 Views',
       blog_author: 'Oliver Porter',

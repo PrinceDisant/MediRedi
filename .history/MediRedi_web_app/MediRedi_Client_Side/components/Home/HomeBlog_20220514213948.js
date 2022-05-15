@@ -18,7 +18,7 @@ const HomeBlog = () => {
                   <div className="col-xxl-12">
                      <div className="section__title-wrapper mb-60 text-center">
                         <span className="section__title-pre">Latest News</span>
-                        <h2 className="section__title section__title-44">The latest news from MediRedi</h2>
+                        <h2 className="section__title section__title-44">The latest news from Educal</h2>
                      </div>
                   </div>
                </div>

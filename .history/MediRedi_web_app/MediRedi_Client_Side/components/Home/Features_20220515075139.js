@@ -56,7 +56,7 @@ const Features = () => {
                                           <a>{feature.title}</a>
                                        </Link>
                                     </h3>
-                                    <p>Once you graduate from our program you will be certified to practice remotely.</p>
+                                    <p>Get certified to practice re</p>
 
                                     <Link href="/about">
                                        <a className="link-btn">Learn More <i className="fa-regular fa-arrow-right">
