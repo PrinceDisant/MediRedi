@@ -64,7 +64,7 @@ const HomeCourses = () => {
                                        <a >{course?.title?.substring(0, 30)}..</a>
                                     </Link>
                                  </h3>
-                                 <p>A beginner’s guide to how to crack the certification exam and start practicing medicine remotely</p>
+                                 <p>A beginner’s guide to designing or renovating interior spaces that pop.</p>
 
                                  <div className="course__bottom d-sm-flex align-items-center justify-content-between">
                                     <div className="course__tutor">

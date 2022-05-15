@@ -21,7 +21,7 @@ const Footer = ({ white_bg = '' }) => {
                               </div>
                               <div className="footer__widget-content">
                                  <div className="footer__widget-info">
-                                    <p>Contact us to get started today!</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisc ing elit. Nunc maximus, nulla utlaoki comm odo sagittis.</p>
                                     <div className="footer__social">
                                        <h4>Follow Us</h4>
 

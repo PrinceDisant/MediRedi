@@ -34,7 +34,7 @@ const Features = () => {
             <path d="M12.0209 12.1696H7.70837" stroke="#3D6CE7" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
             <path d="M13.4584 17.9196H7.70837" stroke="#3D6CE7" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
          </svg>,
-         title: 'Exam Preparation',
+         title: 'Education Services',
       },
    ]
    return (

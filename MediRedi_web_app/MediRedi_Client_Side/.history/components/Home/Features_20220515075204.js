@@ -9,7 +9,7 @@ const Features = () => {
             <path d="M7.3176 24.275L7.2966 34.1259C7.2966 36.7934 9.35499 39.6499 11.8755 40.4901L18.5757 42.7165C19.7309 43.0945 21.6423 43.0945 22.8185 42.7165L29.5188 40.4901C32.0392 39.6499 34.0976 36.7934 34.0976 34.1259V24.38" stroke="#3D6CE7" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
             <path d="M40.4408 28.3077V15.7054" stroke="#3D6CE7" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
          </svg>,
-         title: 'Bootcamp',
+         title: 'Graduation',
       },
       {
          id: 2,
@@ -34,7 +34,7 @@ const Features = () => {
             <path d="M12.0209 12.1696H7.70837" stroke="#3D6CE7" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
             <path d="M13.4584 17.9196H7.70837" stroke="#3D6CE7" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
          </svg>,
-         title: 'Exam Preparation',
+         title: 'Education Services',
       },
    ]
    return (

@@ -4,23 +4,23 @@ const links = [
         id:1,
         url:'/',
         name:'Home',
-        // submenu:[
-        //     {
-        //         id:1,
-        //         url:'/home',
-        //         name:'Home'
-        //     },
-        //     // {
-        //     //     id:2,
-        //     //     url:'/home-two',
-        //     //     name:'Home Style 2'
-        //     // },
-        //     // {
-        //     //     id:3,
-        //     //     url:'/home-three',
-        //     //     name:'Home Style 3'
-        //     // },
-        // ]
+        submenu:[
+            {
+                id:1,
+                url:'/home',
+                name:'Home'
+            },
+            // {
+            //     id:2,
+            //     url:'/home-two',
+            //     name:'Home Style 2'
+            // },
+            // {
+            //     id:3,
+            //     url:'/home-three',
+            //     name:'Home Style 3'
+            // },
+        ]
     },
 
     {
