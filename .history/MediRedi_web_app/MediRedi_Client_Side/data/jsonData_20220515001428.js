@@ -19,7 +19,7 @@ const courses = [
   {
     "id": "2",
     "image": "https://i.ibb.co/K7qTQfD/course-2.jpg",
-    "category": "Digital",
+    "category": "UX Design",
     "title": "Cultural Considerations",
     "subtitle": "A beginner’s guide to designing or renovating interior spaces that pop.",
     "teacher_img": "https://i.ibb.co/jzMTN7m/course-tutor-2.jpg",
@@ -550,7 +550,7 @@ const courses = [
         "id": "2",
         "image": "https://i.ibb.co/K7qTQfD/course-2.jpg",
         "icon_img": "https://i.ibb.co/BB8msyp/course-book-2.png",
-        "category": "Digital",
+        "category": "Mechanical",
         "title": "The Challenge Of Global LearningIn Public Education.",
         "subtitle": "A beginner’s guide to designing or renovating interior spaces that pop.",
         "teacher_img": "https://i.ibb.co/jzMTN7m/course-tutor-2.jpg",

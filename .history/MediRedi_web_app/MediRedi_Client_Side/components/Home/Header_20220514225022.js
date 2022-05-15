@@ -92,11 +92,7 @@ const Header = () => {
                                     <a className="header-btn">contact us</a>
                                  </Link>
                               </div>
-                              <div className="cart-info mr-10">
-                              <Link href="/cart">
-                                 <a >View cart</a>
-                              </Link>
-                           </div>
+                              
                            </div>
                         </div>
                      </div>

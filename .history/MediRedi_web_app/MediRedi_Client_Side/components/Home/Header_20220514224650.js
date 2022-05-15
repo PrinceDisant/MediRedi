@@ -86,18 +86,15 @@ const Header = () => {
                                     </Link>
                                  }
 
-                     </div>
+                              </div>
                               <div className="header__btn ml-20">
                                  <Link href="/contact">
                                     <a className="header-btn">contact us</a>
                                  </Link>
                               </div>
-                              <div className="cart-info mr-10">
-                              <Link href="/cart">
-                                 <a >View cart</a>
-                              </Link>
+                              https://us04web.zoom.us/j/73460561046?pwd=IDu7c43ytwBHcWl6GnzEl7JoZLU63i.1
                            </div>
-                           </div>
+                           
                         </div>
                      </div>
                   </div>

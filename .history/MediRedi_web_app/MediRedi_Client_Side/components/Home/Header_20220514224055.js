@@ -86,7 +86,7 @@ const Header = () => {
                                     </Link>
                                  }
 
-                     </div>
+                              </div>
                               <div className="header__btn ml-20">
                                  <Link href="/contact">
                                     <a className="header-btn">contact us</a>
@@ -96,7 +96,6 @@ const Header = () => {
                               <Link href="/cart">
                                  <a >View cart</a>
                               </Link>
-                           </div>
                            </div>
                         </div>
                      </div>
