@@ -41,9 +41,9 @@ const HeroArea = () => {
 
                                  <div className="col-xxl-7 col-xl-8 col-lg-8 col-md-10 col-sm-10">
                                     <div className="slider__content p-relative z-index-1">
-                                       <span >Medi Redi</span>
+                                       <span >Educal University</span>
                                        <h2 className="slider__title">{slider.title}</h2>
-                                       <p>We help doctors get certified to practice medicine remotely in Newfoundland and Canada.</p>
+                                       <p>We believe everyone should have the opportunity to create progress through technolog.</p>
                                        <div className="slider__btn">
                                           <Link href="/courses">
                                              <a className="tp-btn">Find Courses</a>
